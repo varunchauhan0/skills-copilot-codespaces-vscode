@@ -1,5 +1,5 @@
 <header>
-![disco bear](https://github.com/user-attachments/assets/ded1d148-1fab-4b86-ab73-55aaa15b0f54)
+
 
 <!--
   <<< Author notes: Course header >>>
